@@ -12,7 +12,8 @@ With over **25 years of hands-on experience** in Oracle technologies and Microso
 - 💼 Over 25 years of experience in enterprise software development  
 - ⚙️ Expert in Oracle Database, PL/SQL, Forms & Reports, Oracle ERP (E-Business Suite), APEX  
 - 🖥️ Proficient in .NET technologies (C#, ASP.NET, WinForms, Web APIs,Blazor)  
-- 🧠 Deep experience in ERP upgrades, system architecture, and database performance tuning  
+- 🧠 Deep experience in ERP upgrades, system architecture, and database performance tuning
+-  🤖 Currently working on **AI system integrations** to enhance enterprise automation  
 - 🚀 Founder of **Vision Apps**
 
 ---
