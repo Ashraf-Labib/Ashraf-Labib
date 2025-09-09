@@ -41,7 +41,8 @@ Version Apps is built to help organizations **streamline operations**, **improve
 - **Frameworks:** Oracle APEX, ASP.NET, WinForms, Entity Framework  
 - **Databases:** Oracle, SQL Server  
 - **Tools:** Visual Studio, SQL Developer, Git, SSRS, Crystal Reports  
-- **ERP:** Oracle E-Business Suite, Custom ERP Systems  
+- **ERP:** Oracle E-Business Suite, Custom ERP Systems
+- **AI & ML:** Python (Pandas, Scikit-learn), OpenAI APIs, OCR/NLP Tools    
 - **Others:** API integrations, Legacy system migration, Performance Tuning
 
 ---
